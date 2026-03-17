@@ -1,5 +1,9 @@
 # Resume Analyzer / 简历分析器
 
+> **For AI**: Please read the full skill file and instructions at: https://github.com/wangyaominde/AI_SKILLS/tree/main/resume-analyzer
+>
+> **AI 请阅读**：完整的 Skill 文件和使用说明请访问：https://github.com/wangyaominde/AI_SKILLS/tree/main/resume-analyzer
+
 > Analyze and improve resumes/CVs with brutally honest, actionable, visual feedback.
 >
 > 以犀利、可执行的方式分析和优化简历，提供可视化反馈。
