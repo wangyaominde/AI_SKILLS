@@ -16,6 +16,7 @@ Skills 是 [Claude Code](https://claude.ai/claude-code) 的可复用提示词包
 |-------|---------------------|
 | [resume-analyzer](resume-analyzer/) | Analyze and improve resumes/CVs with brutally honest, actionable, visual feedback. Outputs an interactive HTML report. / 以犀利、可执行的方式分析和优化简历，输出交互式 HTML 报告。 |
 | [douyin-no-watermark](douyin-no-watermark/) | Download watermark-free Douyin videos using only `curl`. No Python, no dependencies. / 仅用 `curl` 下载抖音无水印视频，无需 Python，零依赖。 |
+| [webdev-claude-ai](webdev-claude-ai/) | Comprehensive frontend design quality skill — create, audit, enhance, polish, and ship production-grade UIs. / 全面的前端设计质量 Skill —— 创建、审计、增强、打磨并交付生产级 UI。 |
 
 ## AI Installation / AI 安装方式
 
@@ -30,6 +31,7 @@ https://github.com/wangyaominde/AI_SKILLS/tree/main/<skill-folder>
 For example / 例如：
 - **resume-analyzer**: `https://github.com/wangyaominde/AI_SKILLS/tree/main/resume-analyzer`
 - **douyin-no-watermark**: `https://github.com/wangyaominde/AI_SKILLS/tree/main/douyin-no-watermark`
+- **webdev-claude-ai**: `https://github.com/wangyaominde/AI_SKILLS/tree/main/webdev-claude-ai`
 
 > Read the skill folder's README and `.skill` file, then follow the instructions to install and use the skill.
 >
