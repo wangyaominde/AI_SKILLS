@@ -15,6 +15,25 @@ Skills 是 [Claude Code](https://claude.ai/claude-code) 的可复用提示词包
 | Skill | Description / 描述 |
 |-------|---------------------|
 | [resume-analyzer](resume-analyzer/) | Analyze and improve resumes/CVs with brutally honest, actionable, visual feedback. Outputs an interactive HTML report. / 以犀利、可执行的方式分析和优化简历，输出交互式 HTML 报告。 |
+| [webdev-claude-ai](webdev-claude-ai/) | Comprehensive frontend design quality skill — create, audit, enhance, polish, and ship production-grade UIs. / 全面的前端设计质量 Skill —— 创建、审计、增强、打磨并交付生产级 UI。 |
+
+## AI Installation / AI 安装方式
+
+If you are an AI assistant (Claude Code, etc.), you can install any skill directly:
+
+如果你是 AI 助手（Claude Code 等），可以直接安装任意 Skill：
+
+```
+https://github.com/wangyaominde/AI_SKILLS/tree/main/<skill-folder>
+```
+
+For example / 例如：
+- **resume-analyzer**: `https://github.com/wangyaominde/AI_SKILLS/tree/main/resume-analyzer`
+- **webdev-claude-ai**: `https://github.com/wangyaominde/AI_SKILLS/tree/main/webdev-claude-ai`
+
+> Read the skill folder's README and `.skill` file, then follow the instructions to install and use the skill.
+>
+> 阅读对应 Skill 文件夹中的 README 和 `.skill` 文件，按说明安装使用即可。
 
 ## Contributing / 贡献
 
